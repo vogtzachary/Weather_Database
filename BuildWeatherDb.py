@@ -6,7 +6,7 @@ import sqlite3
 import datetime
 
 # Parameters for retrieving NOAA weather data
-zipCode = "53142"  # Change to your postal code
+zipCode = ""  # Change to your postal code
 country = "US" 
 
 # Date-time format is yyyy-mm-ddThh:mm:ssZ, times are Zulu time (GMT)
